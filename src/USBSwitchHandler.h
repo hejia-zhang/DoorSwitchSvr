@@ -1,0 +1,12 @@
+//
+// Created by hjzh on 17-12-4.
+//
+
+#ifndef DOORSWITCHSVR_USBSWITCHHANDLER_H
+#define DOORSWITCHSVR_USBSWITCHHANDLER_H
+
+#include "DoorSwitchHandler.h"
+
+
+
+#endif //DOORSWITCHSVR_USBSWITCHHANDLER_H
